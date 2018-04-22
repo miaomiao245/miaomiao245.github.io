@@ -1,0 +1,17 @@
+---
+layout: post
+---
+<img src="/images/fulls/Peppa.png" alt="Peppa Pig">
+Today is a busy day. I did many somethings.
+- I downloaded some interesting applications, and installed them on my Macbook Pro.
+- I learned some simple English grammar, and hardly tried to use it in the sentences.such as "one/ones","so/such",etc.
+- At the night, I watched Peppa Pig that is a funny cartoon. And I will list some subtitles.
+	- Peppa is a wonderful girl and likes to take care of her little brother.
+	- It's raining today.So Peppa and George can't play outside.
+	- Daddy, It's stopped raining.
+	- Can we go out to play?
+	- Alright, **run along you two** 
+	- Peppa loves jumping in muddy puddles.
+	- Peppa, if you jump in muddy puddles, you must wear your boots.
+	- Sorry, mummy.
+	- George likes to jump in muddy puddles, too.
