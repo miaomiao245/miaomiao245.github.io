@@ -1,5 +1,0 @@
----
-layout: post
----
-<img src="/images/fulls/07.jpg" class="fit image">
-I have two cats and I love them so much.
